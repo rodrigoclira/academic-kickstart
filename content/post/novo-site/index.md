@@ -35,9 +35,9 @@ Resolvi tirar o meu site do Google Sites e colocá-lo no Github.io. Tive essa id
 
 ## Tecnologias
 
-Assim como o site da Profª Natalia, eu estou usando o gerador estático [Hugo](https://gohugo.io/getting-started/quick-start/) e o tema [Academic](https://sourcethemes.com/academic/docs/install/). No Academic, eu escolhi o padrão *forest* (branco/verde) pois é mais parecido com o padrão de cores utilizado pelo IFPE.
+Assim como o site da Profª Natalia, eu estou usando o gerador estático [Hugo](https://gohugo.io/getting-started/quick-start/) e o [Academic](https://sourcethemes.com/academic/docs/install/). No Academic, eu escolhi o tema *forest* (branco/verde) pois é mais parecido com o padrão de cores utilizado pelo IFPE.
 
-Na edição dos arquivos foi utilizado Vim e o VSCode (as extensões "markdonlint" e Markdown All in One estava habilitadas)
+Na edição dos arquivos foi utilizado Vim e o VSCode (as extensões *markdonlint* e *Markdown All in One* estava habilitadas)
 
 ## Instalação e Configuração
 
