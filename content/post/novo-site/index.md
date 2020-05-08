@@ -45,9 +45,11 @@ A instalação e utilização deles é bem simples, eu segui basicamente os docu
 
 Eu não precisei ir muito a fundo da documentação, a leitura dos arquivos das pastas *config* e *content* esclarecem um pouco o funcionamento do  site. Eu também me baseei, como indicado na documentação do Academic, no site de exemplo que está disponível dentro da pasta do tema. A partir desse exemplo eu entendi como era o funcionamento de adição de novas postagens e projetos.
 
-Abaixo segue a pasta principal do projeto do site.
+Abaixo é apresentado a organização da pasta principal do Academic.
 ![png](./projeto.png)
 
 
 Exemplo de arquivo de markdown.
 ![png](./markdown.png)
+
+Eu estou utilizando o [GitHub Pages](https://pages.github.com/) para hospedar a página. Caso você também tenha interesse em fazer isso, eu sugiro ler primeiro a seção [Deployment](https://sourcethemes.com/academic/docs/deployment/) do Academic.

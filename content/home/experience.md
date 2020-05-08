@@ -42,7 +42,7 @@ date_format = "Jan 2006"
 
 [[experience]]
  title = "Especialista em Desenvolvimento de Software"
- company = "Fundação para Inovações Tecnológicas"
+ company = "Fundação para Inovações Tecnológicas (FITec)"
  company_url = "https://www.fitec.org.br"
  date_start = "2013-03-01"
  date_end = "2017-11-06"
