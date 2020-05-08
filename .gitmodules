@@ -5,3 +5,7 @@
 	path = config/public
 	url = https://github.com/rodrigoclira/rodrigoclira.github.io.git
 	branch = master
+[submodule "public"]
+	path = public
+	url = https://github.com/rodrigoclira/rodrigoclira.github.io.git
+	branch = master
