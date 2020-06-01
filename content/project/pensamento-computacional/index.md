@@ -13,7 +13,7 @@ image:
   caption: Imagem do jogo utilizando Scratch desenvolvido no projeto.
   focal_point: Smart
 
-url_code: ""
+url_code: "https://scratch.mit.edu/projects/400783603/"
 url_pdf: ""
 url_slides: ""
 url_video: ""
