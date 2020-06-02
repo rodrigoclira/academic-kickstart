@@ -3,6 +3,7 @@ title: Sistema de Monitoramento em Tempo Real de Qualidade de Água de um Rio
 summary: Projeto aprovado na chamada pública do NIC.BR
 tags:
 - IoT
+- arduino
 date: "2019-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

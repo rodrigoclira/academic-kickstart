@@ -4,6 +4,7 @@ summary: Projeto aprovado no PIBEX IFPE 2019
 tags:
 - informática na educação
 - pibex
+- arduino
 date: "2019-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

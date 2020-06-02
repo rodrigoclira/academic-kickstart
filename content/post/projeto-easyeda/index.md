@@ -1,5 +1,5 @@
 ---
-title: Desenvolvimento de uma placa para ensino de soldagem e de Arduino
+title: Desenvolvimento de uma placa para fins de ensino
 subtitle: Explicando como utilizei o EasyEDA para desenvolvimento de uma placa.
 summary: Nesse post eu irei apresentar a motivação e as ferramentas que me permitiram criar uma placa para ser utilizada no ensino de soldagem e de Arduino.
 authors:
