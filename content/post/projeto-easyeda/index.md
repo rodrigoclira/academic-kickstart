@@ -1,5 +1,5 @@
 ---
-title: Desenvolvimento de uma placa para fins de ensino
+title: Desenvolvimento de uma placa para fins acadêmicos
 subtitle: 
 summary: Neste post eu irei apresentar a motivação e as ferramentas que me permitiram criar uma placa para ser utilizada no ensino de soldagem e de Arduino.
 authors:
