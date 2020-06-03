@@ -39,7 +39,7 @@ links:
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/georgecushen
-url_code: ""
+url_code: "https://scratch.mit.edu/projects/400783603/"
 url_pdf: "https://sol.sbc.org.br/index.php/ctrle/article/view/8926"
 url_slides: "https://docs.google.com/presentation/d/e/2PACX-1vQGRF5J1hPpxUgjh21f4HaIqv20rlDpINbMOdc49Fbs-h8ASWMPnxv9qWoeKKoBMkLKG0zfZ44CwA8O/embed?start=false&loop=false&delayms=3000"
 url_video: ""
