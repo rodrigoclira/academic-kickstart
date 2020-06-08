@@ -6,7 +6,7 @@ subtitle: ""
 summary: "Neste post eu irei mostrar como é possível modificar o modelo Virus da biblioteca NetLogo para simular o comportamento da transmissão Sars-CoV-2. No experimento foram utilizados três cenários demonstraram o comportamento da doença de acordo com as ações tomadas no ambiente."
 authors: 
 - admin
-tags: []
+tags: ['netlogo', 'ia']
 categories: ['blog', 'experimento']
 date: 2020-06-08T15:14:19-03:00
 lastmod: 
