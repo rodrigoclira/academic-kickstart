@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Usando o Netlogo para simular a transmissão do Sars-CoV-2 (coronavírus)"
+title: "Usando o Netlogo para simular a transmissão do coronavírus"
 subtitle: ""
-summary: "Neste post eu irei mostrar como é possível modificar o modelo Virus da biblioteca NetLogo para simular o comportamento da transmissão Sars-CoV-2. No experimento foram utilizados três cenários demonstraram o comportamento da doença de acordo com as ações tomadas no ambiente."
+summary: "Neste post eu irei mostrar como é possível modificar o modelo *Virus* da biblioteca NetLogo para simular o comportamento da transmissão do Sars-CoV-2, o novo coronavírus. No experimento foram utilizados três cenários demonstraram o comportamento da doença de acordo com as ações tomadas no ambiente."
 authors: 
 - admin
 tags: ['netlogo', 'ia']
