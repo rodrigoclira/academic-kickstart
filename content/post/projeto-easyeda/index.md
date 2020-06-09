@@ -1,5 +1,5 @@
 ---
-title: Desenvolvimento de uma placa PCB para fins acadêmicos
+title: Desenvolvimento de uma placa PCB para fins educacionais
 subtitle: 
 summary: Neste post eu irei apresentar a motivação e as ferramentas que me permitiram criar uma placa PCB para ser utilizada no ensino de soldagem e de Arduino.
 authors:
