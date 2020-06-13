@@ -45,4 +45,4 @@ Referências
 
 Safe Drinking Water Foundation (SDWF). TDS and PH. Acessível em: https://www.safewater.org/fact-sheets-1/2017/1/23/tds-and-ph . Último acesso: 21 de janeiro de 2020.
 
-LIB NIO, M. Fundamentos de qualidade e tratamento de água. Campinas: Átomo, 2010.
+LIBÂNIO, M. Fundamentos de qualidade e tratamento de água. Campinas: Átomo, 2010.
