@@ -29,7 +29,7 @@ projects: []
 ---
 
 
-Não sei muito bem como chegou ao meu conhecimento essa história, talvez tenha sido na aula do Professor Meuser Valença na pós-graduação ou quando estava lendo o [Deep Learning Book](http://deeplearningbook.com.br/). A origem não importa muito, mas o conteúdo me parece muito atual mesmo a ela se passando na década de 50. 
+Não sei muito bem como chegou ao meu conhecimento essa história, talvez tenha sido em alguma aula do professor Mêuser Valença ou quando estava lendo o [Deep Learning Book](http://deeplearningbook.com.br/). A origem não importa muito, mas o conteúdo me parece muito atual mesmo o diálogo acontecendo na década de 50. 
 
 Em um [artigo de 2004 da Nature](https://doi.org/10.1038/427297a), o professor [Freeman Dyson](https://pt.wikipedia.org/wiki/Freeman_Dyson) descreveu o encontro que teve em 1953 com [Enrico Fermi](https://pt.wikipedia.org/wiki/Enrico_Fermi), que na ocasião já era vencedor de um [prêmio nobel](https://www.nobelprize.org/prizes/physics/1938/fermi/facts/). 
 
