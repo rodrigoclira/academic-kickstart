@@ -62,9 +62,14 @@ Segundo o artigo, a movimentação da tromba do elefante é possível pois é ut
 
 {{< gist rodrigoclira 433925c97cf2292b4c331c079a3d96ed >}}
 
-O resultado da execução código será a seguinte figura:
+O resultado da execução do código será a seguinte figura:
  
 ![jpg](./elefante.jpg)
+
+Há também uma [versão do código](https://www.physics.utoronto.ca/~phy326/python/vonNeumann_elephant.py) acima que adiciona uma nova função (LivePlot) que é responsável por usar o *wiggle coefficient* para mostrar a movimentação da tromba do elefante. 
+
+{{< gist rodrigoclira 86e1779123f7df582dac643fea13a774 >}}
+
 
 Por fim, eu destaco um trecho do [Deep Leaning Book]((http://deeplearningbook.com.br/overfitting-e-regularizacao-parte-1/)) como reflexão sobre tudo isso.
 
