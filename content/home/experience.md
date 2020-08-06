@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   company = "Instituto Federal de Educação, Ciências e Tecnologia de Pernambuco (IFPE)"
   company_url = "https://portal.ifpe.edu.br/"
   location = ""
-  date_start = "2017-11-07"
+  date_start = "2017-09-07"
   date_end = ""
 #  description = """Taught electronic engineering and researched semiconductor physics."""
 
