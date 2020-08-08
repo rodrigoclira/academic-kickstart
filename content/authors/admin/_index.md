@@ -29,7 +29,7 @@ education:
   courses:
   - course: Doutorado em Engenharia da Computação (em andamento) 
     institution: Universidade de Pernambuco (Brasil)
-    year: 2024
+    year: 2023
   - course: Mestrado em Engenharia da Computação 
     institution: Universidade de Pernambuco (Brasil)
     year: 2014
