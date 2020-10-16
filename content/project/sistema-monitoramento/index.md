@@ -41,6 +41,11 @@ A proposta deste projeto é desenvolver um protótipo de estação de monitorame
 
 Este projeto foi aprovado na chamada pública [Mover-se na web: Articulação Pró-Brumadinho](https://ceweb.br/projetos/moverse-na-web-brumadinho/) do NIC.BR. 
 
+[Notícia publicada no Diário de Pernambuco](https://www.diariodepernambuco.com.br/noticia/vidaurbana/2020/10/pesquisadores-do-ifpe-propoem-tecnologia-para-verificar-a-qualidade-da.html) 
+
+Evento de Abertura do projeto Mover-se na Web (MCTIC/CEWEB/SOFTEX)
+{{< youtube f-jT_QSE6yE >}}
+
 Referências
 
 Safe Drinking Water Foundation (SDWF). TDS and PH. Acessível em: https://www.safewater.org/fact-sheets-1/2017/1/23/tds-and-ph . Último acesso: 21 de janeiro de 2020.
