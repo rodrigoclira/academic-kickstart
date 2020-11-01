@@ -29,6 +29,12 @@
   url = "#publications"
   weight = 50
 
+#[[main]]
+#  name = "Cursos"
+#  url = "courses/"
+#  weight = 50
+
+
 [[main]]
   name = "Contato"
   url = "#contact"

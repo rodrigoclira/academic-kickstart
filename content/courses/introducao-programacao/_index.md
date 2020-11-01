@@ -1,14 +1,14 @@
 ---
 # Course title, summary, and position.
-linktitle: An Example Course
+linktitle: Introdução a Programação
 summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
 weight: 1
 
 # Page metadata.
-title: Overview
+title: Introdução a Programação
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
-draft: true  # Is this a draft? true/false
+draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
 
@@ -16,8 +16,8 @@ type: docs  # Do not modify.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
 menu:
-  example:
-    name: Overview
+  introducao-programacao:
+    name: Apresentação
     weight: 1
 ---
 
