@@ -41,6 +41,22 @@ date_format = "Jan 2006"
 #  description = """Taught electronic engineering and researched semiconductor physics."""
 
 [[experience]]
+ title = "Professor"
+ company = "Faculdade Osman Lins (FACOL)"
+ location = "Vitória de Santo Antão"
+ company_url = "https://unifacol.edu.br/"
+ date_start = "2017-06-30"
+ date_end = "2015-08-01"
+
+[[experience]]
+ title = "Professor"
+ company = "Faculdade De Tecnologia E Ciências De Pernambuco (FATEC)"
+ location = "Recife"
+ company_url = ""
+ date_start = "2017-06-30"
+ date_end = "2015-02-01"
+
+[[experience]]
  title = "Especialista em Desenvolvimento de Software"
  company = "Fundação para Inovações Tecnológicas (FITec)"
  location = "Recife - Porto Digital"
