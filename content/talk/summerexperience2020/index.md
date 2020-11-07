@@ -64,8 +64,8 @@ projects: []
 math: true
 ---
 
-{{% alert note %}}
+{{% callout note %}}
 O arquivo da apresentação está disponível no campo PDF (logo abaixo do título). 
-{{% /alert %}}
+{{% /callout %}}
 
 {{< gdocs src="https://docs.google.com/presentation/d/e/2PACX-1vQdilHa4Wb_IGhZpqgbXlCV5D3oJrRSDFrDsoM7bLSs8oOK4iSdYymx1WEG-5JBBwMraj-PBB2jgYiw/embed?start=false&loop=false&delayms=3000" >}}
