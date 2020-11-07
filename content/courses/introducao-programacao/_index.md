@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
 linktitle: Introdução a Programação
-summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
+summary: Disciplina de Introdução a Programação do curso de Análise e Desenvolvimento de Sistemas do IFPE Campus Paulista.
 weight: 1
 
 # Page metadata.
@@ -17,11 +17,20 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   introducao-programacao:
-    name: Apresentação
+    name: Apresentação da Disciplina
     weight: 1
 ---
 
-## Flexibility
+## Apresentação da Disciplina
+
+Olá, seja bem-vindo(a) a disciplina de introdução a programação do curso de análise e desenvolvimento de sistemas do IFPE Campus Paulista. Devido a pandemia do coronavíus, o *campus*, assim como todo o IFPE, assumiu uma abordagem de ensino remoto. Nossa aula será realizada toda de forma remota enquanto não for restabelecido o ensino presencial. 
+
+A disciplina acontecerá da seguite forma: 
+
+* Liberação de materiais digitais (apostila, vídeos...)
+* Contato com o professor para tirar dúvidas sobre o assunto através de e-mail, telegram... 
+* Reuniões semanais usando web conferência (Google Meet) para tirar dúvidas sobre o assunto em um horário pré-definido
+
 
 This feature can be used for publishing content such as:
 
