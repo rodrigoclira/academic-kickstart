@@ -35,14 +35,9 @@ Este projeto tem como objetivo o desenvolvimento de um jogo utilizando robótica
 
 Após a fase de desenvolvimento do projeto, espera-se criar oficinas na comunidade interna e externas do campus. Nessas oficinas serão utilizados os dois produtos, ambiente de simulação e robô educacional para estimular o pensamento computacional. Com isso espera-se despertar o interesse das crianças e adultos para a área de computação e apresentar de forma divertida os conceitos de programação. 
 
-Atividades desenvolvidas: 
+Vídeo de apresentação do Encontro de Extensionista do IFPE
 
-* Desenvolvimento do jogo no ambiente Scratch (imagem)
-* Criação de protótipo do robô 
-
-Etapas em andamento: 
-
-* Ajustes do protótipo do robô físico
+{{< youtube bnpLvxEoBQw >}}
 
 [1] WING, Jeannette Marie. Computational thinking. In: Communications of The ACM,
 Marz 2006. Vol. 49, no 3. p. 33-35
