@@ -56,10 +56,10 @@ A complexidade da placa facilitou bastante a minha vida. A placa PCB projetada �
 
 Para mim a grande vantagem de usar o EasyEDA foi a sua integração com a JLCPCB, um fabricante de placas sediado em Hong Kong. Com poucos cliques foi possível enviar o projeto para ser manufaturado pela JLCPCB e escolher detalhes da placa como a cor, o tipo das pontas, dentre outras opções. O custo também foi bastante acessível, eu escolhi as opções mais baratas (padrão) de confecção e isso fez com que o custo total fosse de US$ 12 por 50 placas.
 
-Acabei não dando sorte na entrega, os Correios perderam o pacote e me fizeram esperar um novo envio da JLCPCB. Não tive custos adicionais mais tive que contatar os Correios para devolverem a taxa de despacho postal (R$15) da encomenda extraviada. Recebi a placa nesse segundo envio, elas vieram bem lacradas num pacote embalado a vácuo. Na imagem abaixo é apresentada a foto de uma delas.
-
+Acabei não dando sorte na entrega, os Correios perderam o pacote e me fizeram esperar um novo envio da JLCPCB. Não tive custos adicionais mais tive que contatar os Correios para devolverem a taxa de despacho postal (R$15) da encomenda extraviada. Recebi a placa nesse segundo envio, elas vieram bem lacradas num pacote embalado a vácuo. Nas imagens abaixo são apresentadas fotos da placa.
 
 ![png](./placa.jpeg)
 
-Ps.: Ainda não tive a oportunidade de utilizar a placa PCB em aula, o atraso dos Correios levaram a entrega para o fim do semestre e o semestre atual foi suspenso pela pandemia.
+Depois de colocar os componentes... 
 
+![jpg](./soldada.jpg)
