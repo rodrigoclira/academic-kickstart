@@ -18,18 +18,6 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[experience]]
-  title = "Coordenador de Curso"
-  company = "Instituto Federal de Educação, Ciências e Tecnologia de Pernambuco (IFPE)"
-  company_url = "https://portal.ifpe.edu.br/"
-  location = "Paulista"
-  date_start = "2018-12-01"
-  date_end = ""
-  description = """
-  Coordenador do Curso Superior em Análise e Desenvolvimento de Sistemas (07/2019 - atual)
-  
-  Coordenador do Curso Técnico em Manutenção e Suporte em Informática (12/2018 - 06/2019)
-  """
 
 [[experience]]
   title = "Professor do Ensino Básico, Técnico e Tecnológico"
@@ -40,6 +28,7 @@ date_format = "Jan 2006"
   date_end = ""
 #  description = """Taught electronic engineering and researched semiconductor physics."""
 
+ 
 [[experience]]
  title = "Professor"
  company = "Faculdade Osman Lins (FACOL)"
@@ -47,6 +36,19 @@ date_format = "Jan 2006"
  company_url = "https://unifacol.edu.br/"
  date_end = "2017-06-30"
  date_start = "2015-08-01"
+
+[[experience]]
+  title = "Coordenador de Curso"
+  company = "Instituto Federal de Educação, Ciências e Tecnologia de Pernambuco (IFPE)"
+  company_url = "https://portal.ifpe.edu.br/"
+  location = "Paulista"
+  date_start = "2018-12-01"
+  date_end = "2021-02-28"
+  description = """
+  Coordenador do Curso Superior em Análise e Desenvolvimento de Sistemas (07/2019 - 02/2021)
+  
+  Coordenador do Curso Técnico em Manutenção e Suporte em Informática (12/2018 - 06/2019)
+  """
 
 [[experience]]
  title = "Professor"

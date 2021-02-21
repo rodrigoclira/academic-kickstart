@@ -30,7 +30,7 @@ projects: []
 
 No início de janeiro eu fui aprovado na certificação da AWS chamada [AWS Certified Cloud Practitioner (ACP)](https://aws.amazon.com/pt/certification/certified-cloud-practitioner/). Isso me garantiu o título de *Accredited Educator*, um credenciamento que a AWS dá aos docentes que forem aprovados no seu programa de treinamento. Dessa forma agora eu estou apto a lecionar o conteúdo da AWS Academy.
 
-A Amazon Web Services (AWS) é um dos maiores clouds providers do mundo e possui [os mais diversos serviços](https://aws.amazon.com/pt/) para computação em nuvem. Agora como um *Accredited Educator*, os alunos do IFPE Campus Paulista poderão realizar treinamento dessa plataforma de forma gratuita. 
+A Amazon Web Services (AWS) é um dos [maiores clouds providers](https://www.contino.io/insights/whos-using-aws) do mundo e possui [os mais diversos serviços](https://aws.amazon.com/pt/) para computação em nuvem. Agora como um *Accredited Educator*, os alunos do IFPE Campus Paulista poderão realizar treinamento dessa plataforma de forma gratuita. 
 
 
 Meu próximo objetivo é tirar a [AWS Certified Solutions Architect](https://aws.amazon.com/pt/certification/certified-solutions-architect-associate/) para em seguida alcançar a [AWS Certified Machine Learning](https://aws.amazon.com/certification/certified-machine-learning-specialty/). Aproveito para deixar público o que foi utilizado no processo estudo para a certificação ACP: 

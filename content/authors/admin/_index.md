@@ -80,15 +80,12 @@ user_groups:
 - Visitors
 
 
-# Ao longo da graduação fui monitor de disciplinas, aluno de iniciação científica e tive uma empresa incubada na Incubadora do Instituto de Tecnologia de Pernambuco (ITEP). Antes de ser professor no instituto federal, eu trabalhei na Fundação para Inovações Tecnológicas (FITec) no Porto Digital e lecionei em instituições privadas de Pernambuco
 
 ---
 
-Olá, meu nome é Rodrigo Lira, sou professor no [Instituto Federal de Educação, Ciências e Tecnologia - *Campus* Paulista](https://portal.ifpe.edu.br/campus/paulista) e coordenador do [Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas](https://portal.ifpe.edu.br/campus/paulista/cursos/superiores/tecnologos/analiseedesenvolvimentodesistemas/capa).
+Olá, meu nome é Rodrigo Lira, sou professor no [Instituto Federal de Educação, Ciências e Tecnologia - *Campus* Paulista](https://portal.ifpe.edu.br/campus/paulista). Sou aluno de doutorado do [Programa de Pós-Graduação em Engenharia da Computação](http://ppgec.ecomp.poli.br) da Universidade de Pernambuco (POLI-UPE), instituição na qual obtive o título de mestre (2014) e de bacharel (2013), ambos em Engenharia da Computação.
 
-Atualmente sou aluno de doutorado do [Programa de Pós-Graduação em Engenharia da Computação](http://ppgec.ecomp.poli.br) da Universidade de Pernambuco (POLI-UPE), instituição na qual obtive o título de mestre (2014) e de bacharel (2013), ambos em Engenharia da Computação. Sou também um [*AWS Certified Cloud Practitioner*](https://aws.amazon.com/pt/certification/certified-cloud-practitioner/) e um [*Accredited Educator*]({{< ref "/post/cloud-practitioner" >}}) da AWS Academy.
+Ao longo da minha graduação fui monitor de disciplinas, aluno de iniciação científica e tive uma empresa incubada na Incubadora do Instituto de Tecnologia de Pernambuco (ITEP). Antes de ser professor no instituto federal, eu trabalhei na Fundação para Inovações Tecnológicas (FITec) no Porto Digital e lecionei em instituições privadas de Pernambuco
 
-
-
-
+No IFPE já fui coordenador do curso técnico em Manutenção e Suporte em Informática e do curso de tecnologia em Análise e Desenvolvimento de Sistemas. Também desenvolvo projetos de pesquisa e extensão com recursos institucionais e de parceiros externos. Sou também um [*AWS Certified Cloud Practitioner*](https://aws.amazon.com/pt/certification/certified-cloud-practitioner/) e um [*Accredited Educator*]({{< ref "/post/cloud-practitioner" >}}) da AWS Academy.
  
