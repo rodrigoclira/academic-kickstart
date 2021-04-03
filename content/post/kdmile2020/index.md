@@ -6,7 +6,7 @@ subtitle: ""
 summary: ""
 authors: [admin]
 tags: ["credit scoring"]
-categories: []
+categories: ['blog']
 date: 2020-09-24T23:57:14-03:00
 lastmod: 
 featured: false

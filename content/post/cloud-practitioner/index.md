@@ -6,7 +6,7 @@ subtitle: ""
 summary: ""
 authors: [admin]
 tags: ["aws", 'cloud']
-categories: []
+categories: ['blog']
 date: 2021-01-18T23:57:14-03:00
 lastmod: 
 featured: false
