@@ -1,5 +1,5 @@
 ---
-title: Apresentação do artigo Construção de um Jogo Usando Robótica para a Formação de Habilidades de Programação em Crianças
+title: Construção de um Jogo Usando Robótica para a Formação de Habilidades de Programação em Crianças
 event: Computer on the Beach 2021
 #event_url: https://example.org
 draft: false

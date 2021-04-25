@@ -42,6 +42,13 @@ Vídeo de apresentação do Encontro de Extensionista do IFPE 2020
 
 {{< youtube bnpLvxEoBQw >}}
 
+Imagens do robô desenvolvido no segundo ano do projeto
+
+![](./demo1.jpg)
+![](./demo2.jpg)
+![](./demo3.jpg)
+
+
 
 [1] WING, Jeannette Marie. Computational thinking. In: Communications of The ACM,
 Marz 2006. Vol. 49, no 3. p. 33-35
