@@ -86,5 +86,7 @@ user_groups:
 
 Olá, meu nome é Rodrigo Lira, sou professor no [Instituto Federal de Educação, Ciências e Tecnologia - *Campus* Paulista](https://portal.ifpe.edu.br/campus/paulista). Sou aluno de doutorado do [Programa de Pós-Graduação em Engenharia da Computação](http://ppgec.ecomp.poli.br) da Universidade de Pernambuco (POLI-UPE), instituição na qual obtive o título de mestre (2014) e de bacharel (2013), ambos em Engenharia da Computação.
 
-No IFPE já fui coordenador do curso técnico em Manutenção e Suporte em Informática e do curso de tecnologia em Análise e Desenvolvimento de Sistemas. Também desenvolvo projetos de pesquisa e extensão com recursos institucionais e de parceiros externos. Sou também um [*AWS Certified Cloud Practitioner*](https://aws.amazon.com/pt/certification/certified-cloud-practitioner/) e um [*Accredited Educator*]({{< ref "/post/cloud-practitioner" >}}) da AWS Academy.
+No IFPE já fui coordenador do curso técnico em Manutenção e Suporte em Informática e do curso de tecnologia em Análise e Desenvolvimento de Sistemas. Também desenvolvo projetos de pesquisa e extensão com recursos institucionais e de parceiros externos. 
+
+#Sou também um [*AWS Certified Cloud Practitioner*](https://aws.amazon.com/pt/certification/certified-cloud-practitioner/) e um [*Accredited Educator*]({{< ref "/post/cloud-practitioner" >}}) da AWS Academy.
  
