@@ -28,5 +28,5 @@ draft: false
 
 O IFPE Campus Paulista está recebendo no segundo semestre de 2020 a sua sede definitiva. Ao todo são seis blocos com dezenas de salas e ambientes para os alunos e servidores. Novos ambientes para estudos e espaços físicos que antes não existiam na sede provisória serão liberados. Evidentemente que a ocupação e sinalização desse espaço precisará de um esforço da administração. Devido a essa situação, esse projeto de extensão tem como objetivo criar um jogo no qual o estudante possa conhecer o novo campus de forma virtual, ainda no jogo serão destinados missões com o intuito de apresentar os principais setores do campus (Divisão de Pesquisa e Extensão, CRADT, Coordenações…) e também os artigos da organização acadêmica. Dessa forma espera-se que os novos alunos possam utilizar esse recurso para conseguir entender e conhecer o funcionamento do campus e do IFPE. Espera-se que esse jogo seja fundamental para os calouros conhecerem o novo campus e também sirva como uma ferramenta de promoção do IFPE Campus Paulista para a sociedade. 
 
-
+[Acesse a demonstração do projeto](https://ifpe-paulista-rodrigo.github.io/jogo-ifpe/index.html)
 
