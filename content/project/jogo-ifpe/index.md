@@ -7,7 +7,7 @@ tags:
 date: "2021-02-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://ifpe-paulista-rodrigo.github.io/jogo-ifpe/index.html"
+external_link: ""
 
 image:
   caption: Imagem da tela inicial do jogo.
