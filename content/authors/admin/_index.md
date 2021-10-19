@@ -33,6 +33,9 @@ education:
   - course: Mestrado em Engenharia da Computação 
     institution: Universidade de Pernambuco (Brasil)
     year: 2014
+  - course: Especialização em Educação Profissional e Tecnologia
+    institution: Faculdade Venda Nova do Imigrante (Brasil)
+    year: 2021 
   - course: Bacharelado em Engenharia da Computação
     institution: Universidade de Pernambuco (Brasil)
     year: 2013
@@ -86,7 +89,6 @@ user_groups:
 
 Olá, meu nome é Rodrigo Lira, sou professor no [Instituto Federal de Educação, Ciências e Tecnologia de Pernambuco - *Campus* Paulista](https://portal.ifpe.edu.br/campus/paulista). Sou aluno de doutorado do [Programa de Pós-Graduação em Engenharia da Computação](http://ppgec.ecomp.poli.br) da Universidade de Pernambuco (POLI-UPE), instituição na qual obtive o título de mestre (2014) e de bacharel (2013), ambos em Engenharia da Computação.
 
-No IFPE já fui coordenador do curso técnico em Manutenção e Suporte em Informática e do curso de tecnologia em Análise e Desenvolvimento de Sistemas. Também desenvolvo projetos de pesquisa e extensão com recursos institucionais e de parceiros externos. 
+No IFPE já fui coordenador do curso técnico em Manutenção e Suporte em Informática e do curso de tecnologia em Análise e Desenvolvimento de Sistemas. Atualmente desenvolvo projetos de pesquisa e extensão no campus Paulista. Em 2021 me tornei um [AWS Accredited Educator](https://aws.amazon.com/pt/training/awsacademy/?nc2=sb_ep_aca) habilitado a lecionar os cursos *AWS Cloud Foundation* e o *Cloud Architecting*. 
 
-<!--Sou também um [*AWS Certified Cloud Practitioner*](https://aws.amazon.com/pt/certification/certified-cloud-practitioner/) e um [*Accredited Educator*]({{< ref "/post/2021/cloud-practitioner" >}}) da AWS Academy.-->
  
