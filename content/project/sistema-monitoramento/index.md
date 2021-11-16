@@ -46,6 +46,10 @@ Este projeto foi aprovado na chamada pública [Mover-se na web: Articulação Pr
 Evento de Abertura do projeto Mover-se na Web (MCTIC/CEWEB/SOFTEX)
 {{< youtube f-jT_QSE6yE >}}
 
+Apresentação da Semana Nacional de Ciências e Tecnologia do IFPE Campus Paulista
+
+{{< youtube BB6DhS4MbDA >}}
+
 Referências
 
 Safe Drinking Water Foundation (SDWF). TDS and PH. Acessível em: https://www.safewater.org/fact-sheets-1/2017/1/23/tds-and-ph . Último acesso: 21 de janeiro de 2020.
