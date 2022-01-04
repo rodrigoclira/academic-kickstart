@@ -1,12 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Acordo de Cooperação Técnica entre o IFPE Paulistae a Softex Recife"
+title: "Acordo de Cooperação Técnica entre o IFPE Paulista e o Softex Recife"
 subtitle: ""
 summary: ""
 authors: [admin]
 tags: ["softex", "iot", "ifpe"]
-categories: []
+categories: ['blog']
 date: 2021-11-15T23:18:25-03:00
 lastmod: 2021-11-15T23:18:25-03:00
 featured: false
