@@ -10,7 +10,7 @@ date: "2019-01-01T00:00:00Z"
 external_link: ""
 
 image:
-  caption: 
+  caption: Aplicação Web desenvolvida no projeto
   focal_point: Smart
 
 links:
@@ -41,16 +41,29 @@ A proposta deste projeto é desenvolver um protótipo de estação de monitorame
 
 Este projeto foi aprovado na chamada pública [Mover-se na web: Articulação Pró-Brumadinho](https://ceweb.br/projetos/moverse-na-web-brumadinho/) do NIC.BR. 
 
+# Material Externo
+
 [Notícia publicada no Diário de Pernambuco](https://www.diariodepernambuco.com.br/noticia/vidaurbana/2020/10/pesquisadores-do-ifpe-propoem-tecnologia-para-verificar-a-qualidade-da.html) 
 
-Evento de Abertura do projeto Mover-se na Web (MCTIC/CEWEB/SOFTEX)
+## Evento de Abertura do projeto Mover-se na Web (MCTIC/CEWEB/SOFTEX)
 {{< youtube f-jT_QSE6yE >}}
 
-Apresentação da Semana Nacional de Ciências e Tecnologia do IFPE Campus Paulista
+## Apresentação da Semana Nacional de Ciências e Tecnologia do IFPE Campus Paulista
 
 {{< youtube BB6DhS4MbDA >}}
 
-Referências
+
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 48px; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEtT5B0cZw&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEtT5B0cZw&#x2F;view?utm_content=DAEtT5B0cZw&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Apresentação SNCT</a> de Rodrigo Lira
+
+
+## Referências
 
 Safe Drinking Water Foundation (SDWF). TDS and PH. Acessível em: https://www.safewater.org/fact-sheets-1/2017/1/23/tds-and-ph . Último acesso: 21 de janeiro de 2020.
 

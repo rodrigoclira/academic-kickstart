@@ -10,7 +10,7 @@ date: "2021-02-01T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Imagem da tela inicial do jogo.
+  caption: Demonstração do jogo.
   focal_point: Smart
 
 url_code: ""
