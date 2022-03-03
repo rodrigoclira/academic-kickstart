@@ -12,8 +12,8 @@ address:
   #postcode: '94305'
   country: Brasil
 
-summary: Apresentação de artigo realizada no evento Computer on the Beach 2020
-abstract: "Apresentação de artigo realizada no evento Computer on the Beach 2020 referente ao artigo Construção de um Jogo Usando Robótica para a Formação de Habilidades de Programação em Crianças."
+summary: Apresentação de artigo realizada no evento Computer on the Beach 2021
+abstract: "Apresentação de artigo realizada no evento Computer on the Beach 2021 referente ao artigo Construção de um Jogo Usando Robótica para a Formação de Habilidades de Programação em Crianças."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
