@@ -2,17 +2,13 @@
 # Display name
 title: Rodrigo Lira
 
-# Username (this should match the folder name)
-authors:
-- admin
-
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
 role: Professor
 
-# Organizations/Affiliations
+# Organizations/Affiliations to show in About widget
 organizations:
 - name: IFPE Campus Paulista
   url: "https://portal.ifpe.edu.br/campus/paulista"
@@ -20,11 +16,13 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Rodrigo Lira é professor no IFPE e tem interesse nas áreas de inteligência computacional, IoT e Informática na Educação.
 
+# Interests to show in About widget
 interests:
 - Inteligência Computacional
 - Internet das Coisas
 - Informática na Educação
 
+# Education to show in About widget
 education:
   courses:
   - course: Doutorado em Engenharia da Computação (em andamento) 
@@ -41,9 +39,9 @@ education:
     year: 2013
 
 # Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
@@ -71,20 +69,22 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: files/cv.pdf
+#   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
+user_groups: 
 - Researchers
 - Visitors
 
 #Ao longo da minha graduação fui monitor de disciplinas, aluno de iniciação científica e tive uma empresa incubada na Incubadora do Instituto de Tecnologia de Pernambuco (ITEP). Antes de ser professor no instituto federal, eu trabalhei na Fundação para Inovações Tecnológicas (FITec) no Porto Digital e lecionei em instituições privadas de Pernambuco
 
 
+# Highlight the author in author lists? (true/false)
+highlight_name: true
 ---
 
 Olá, meu nome é Rodrigo Lira, sou professor no [Instituto Federal de Educação, Ciências e Tecnologia de Pernambuco - *Campus* Paulista](https://portal.ifpe.edu.br/campus/paulista). Sou aluno de doutorado do [Programa de Pós-Graduação em Engenharia da Computação](http://ppgec.ecomp.poli.br) da Universidade de Pernambuco (POLI-UPE), instituição na qual obtive o título de mestre (2014) e de bacharel (2013), ambos em Engenharia da Computação.
