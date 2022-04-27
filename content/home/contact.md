@@ -61,3 +61,6 @@ content:
 design:
   columns: '2'
 ---
+
+![IFPE Campus Paulista](ifpe-paulista.png "IFPE Campus Paulista")
+
