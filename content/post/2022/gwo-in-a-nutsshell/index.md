@@ -33,7 +33,7 @@ In nature, grey wolves live in a pack, and they organise themselves in a social 
 
  ![GWO social hierarchy](gwo-social2.png)
 
-Mirjalili et al. [10] proposed the Grey Wolf Optimizer (Algorithm 1) inspired by the social hierarchy and group hunting of wolves. Each wolf (i.e. the agent) represents a candidate solution in the proposal, and the social hierarchy is based on the current fitness value. The fittest wolf in the swarm is labelled as alpha. The second and third best solutions are labelled as beta and delta, respectively. They influence the movement of the rest of the swarm that is assumed to be the omega. The movement of the wolves is modelled to reproduce the group hunting. The encircled behaviour is proposed using Equation 1 and Equation 2.
+[Mirjalili et al.](https://www.sciencedirect.com/science/article/abs/pii/S0965997813001853) proposed the Grey Wolf Optimizer (Algorithm 1) inspired by the social hierarchy and group hunting of wolves. Each wolf (i.e. the agent) represents a candidate solution in the proposal, and the social hierarchy is based on the current fitness value. The fittest wolf in the swarm is labelled as alpha. The second and third best solutions are labelled as beta and delta, respectively. They influence the movement of the rest of the swarm that is assumed to be the omega. The movement of the wolves is modelled to reproduce the group hunting. The encircled behaviour is proposed using Equation 1 and Equation 2.
 
 {{< math >}}
 (1)
