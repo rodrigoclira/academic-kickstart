@@ -46,8 +46,12 @@ Este projeto foi aprovado na chamada pública [Mover-se na web: Articulação Pr
 
 [Notícia publicada no Diário de Pernambuco](https://www.diariodepernambuco.com.br/noticia/vidaurbana/2020/10/pesquisadores-do-ifpe-propoem-tecnologia-para-verificar-a-qualidade-da.html)
 
-## Evento de Abertura do projeto Mover-se na Web (MCTIC/CEWEB/SOFTEX)
-{{< youtube f-jT_QSE6yE >}}
+[Notícia publicada no portal do IFPE](https://portal.ifpe.edu.br/noticias/campus-paulista-tem-projeto-aprovado-em-articulacao-pro-brumadinho)
+
+[Notícia publicada no site do CGI.br](https://www.cgi.br/noticia/releases/uso-de-tecnologias-web-em-beneficio-de-brumadinho-mg-conheca-projetos-do-mover-se-na-web-que-comecam-a-ser-implementados/)
+
+## Vídeo de Divulgação do Projeto
+{{< youtube w4K-ripyrR0 >}}
 
 ## Apresentação da Semana Nacional de Ciências e Tecnologia do IFPE Campus Paulista
 
