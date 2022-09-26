@@ -20,10 +20,10 @@ links:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 
-url_code: ""
+url_code: "https://github.com/cewebbr/mover-se_monitoramento-qualidade-agua"
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://www.youtube.com/watch?v=w4K-ripyrR0"
 draft: false
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -57,7 +57,7 @@ Este projeto foi aprovado na chamada pública [Mover-se na web: Articulação Pr
 
 {{< youtube BB6DhS4MbDA >}}
 
-
+Slides
 <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
  padding-bottom: 48px; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
@@ -67,6 +67,9 @@ Este projeto foi aprovado na chamada pública [Mover-se na web: Articulação Pr
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEtT5B0cZw&#x2F;view?utm_content=DAEtT5B0cZw&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Apresentação SNCT</a> de Rodrigo Lira
 
+## Demonstração da Aplicação Web
+
+{{< youtube  h5FF0H68Cm8 >}}
 
 ## Referências
 

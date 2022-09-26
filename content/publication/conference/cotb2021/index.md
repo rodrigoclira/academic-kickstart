@@ -8,5 +8,5 @@ abstract: "Constant technological advances have made society face the needto acq
 featured: true
 publication: "*12ª edição do Computer on the Beach (COTB'2021)*"
 url_pdf: "https://siaiap32.univali.br/seer/index.php/acotb/article/view/17465"
+url_video: "https://www.youtube.com/watch?v=BibvG_auClA"
 ---
-
