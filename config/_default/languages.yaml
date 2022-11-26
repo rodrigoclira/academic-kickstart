@@ -22,6 +22,9 @@ pt:
       - name: Publicações
         url: '#featured'
         weight: 50
+      - name: Downloads
+        url: '/downloads'
+        weight: 55
       - name: Contato
         url: '#contact'
         weight: 60
