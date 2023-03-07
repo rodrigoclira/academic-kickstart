@@ -88,6 +88,15 @@ experience:
     #    * Extensão
     #    * Es
 
+  - title: Bolsista
+    company: Rede Nacional de Ensino e Pesquisa (RNP)
+    company_url: 'https://www.rnp.br/'
+    company_logo: org-rnp
+    location: ""
+    date_end: ""
+    date_start: "2023-03-01"
+    description: Atuação no projeto INOVA ID RS
+
   - title: Coordenador de Curso Superior em Análise e Desenvolvimento de Sistema
     company: Instituto Federal de Educação, Ciências e Tecnologia de Pernambuco (IFPE)
     company_url: "https://portal.ifpe.edu.br/"

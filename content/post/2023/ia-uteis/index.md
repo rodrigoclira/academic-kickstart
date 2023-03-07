@@ -135,3 +135,15 @@ Resolvi pegar essa listagem para começar um repositório de projeto desse tipo 
 
 **O que é?** Segundo o site da OpenAI, DALL-E 2 o pode criar imagens originais e realistas e arte a partir de uma descrição de texto. Pode combinar conceitos, atributos e estilos.
 
+
+
+## 9. SpiritMet
+
+{{< youtube tvWFHU5jRE >}} ^
+
+**Link**: [https://spiritme.tech/](https://spiritme.tech/)
+
+**Acesso**:  Pago (com nível gratuito)
+
+**O que é?** SpiritMe é uma plataforma que permite que os usuários possam criar avatares digitais de si mesmos, em questão de minutos, por meio da tecnologia text-to-video, permitindo criar vídeos personalizados com avatares que parecem reais, podendo refletir nossa aparência, voz e diferentes expressões.
+
