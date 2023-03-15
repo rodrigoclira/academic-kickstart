@@ -30,7 +30,7 @@ projects: [IA]
 ---
 
 
-A Super Interessante trouxe uma matéria intitulada: "[O Futuro da IA](https://super.abril.com.br/tecnologia/o-futuro-da-inteligencia-artificial-e-o-que-vem-depois-do-chatgpt/)" no qual é apresentada a evolução dos projetos de IA. É uma matéria que detalha os projetos que vieram antes do ChatGPT e o que podemos esperar para o futuro. Em um dos infográficos foram apresentados projetos de IA que estão acessíveis (alguns pagos) para o usuário final, assim como o chatbot da OpenAI. 
+A Super Interessante trouxe uma matéria intitulada: "[O Futuro da IA](https://super.abril.com.br/tecnologia/o-futuro-da-inteligencia-artificial-e-o-que-vem-depois-do-chatgpt/)" onde é apresentada a evolução dos projetos de IA. É uma matéria que detalha os projetos que vieram antes do ChatGPT e o que podemos esperar para o futuro. Em um dos infográficos foram apresentados projetos de IA que estão acessíveis (alguns pagos) para o usuário final, assim como o chatbot da OpenAI. 
 
 Resolvi pegar essa listagem para começar um repositório de projeto desse tipo que podem ser utilizados no nosso dia a dia. 
 
@@ -135,11 +135,12 @@ Resolvi pegar essa listagem para começar um repositório de projeto desse tipo 
 
 **O que é?** Segundo o site da OpenAI, DALL-E 2 o pode criar imagens originais e realistas e arte a partir de uma descrição de texto. Pode combinar conceitos, atributos e estilos.
 
+------- 
 
 
 ## 9. SpiritMet
 
-{{< youtube tvWFHU5jRE >}} ^
+{{< youtube lrsJ7aPBWiw >}} 
 
 **Link**: [https://spiritme.tech/](https://spiritme.tech/)
 
@@ -147,3 +148,14 @@ Resolvi pegar essa listagem para começar um repositório de projeto desse tipo 
 
 **O que é?** SpiritMe é uma plataforma que permite que os usuários possam criar avatares digitais de si mesmos, em questão de minutos, por meio da tecnologia text-to-video, permitindo criar vídeos personalizados com avatares que parecem reais, podendo refletir nossa aparência, voz e diferentes expressões.
 
+------- 
+
+## 10. IMG Creator
+
+{{< youtube x9RePSSudCk >}} 
+
+**Link**: [https://imgcreator.ai/](https://imgcreator.ai/)
+
+**Acesso**:  Pago (com nível gratuito)
+
+**O que é?** IMG Creator é uma ferramenta poderosa para designers, fotógrafos e escritores que procuram inspiração e desejam automatizar tarefas tediosas. Com apenas uma imagem de referência, Imagen AI pode gerar ideias ilimitadas de design, variações de produtos e inspiração ilustrativa. 
