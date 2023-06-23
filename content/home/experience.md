@@ -35,7 +35,7 @@ date_format: Jan 2006
 #
 #[[experience]]
 # title = "Professor"
-# company = "Faculdade Osman Lins (FACOL)"
+# company = "Centro Universitário FACOL (UNIFACOL)"
 # location = "Vitória de Santo Antão"
 # company_url = "https://unifacol.edu.br/"
 # date_end = "2017-06-30"

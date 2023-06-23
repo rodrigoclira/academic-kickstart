@@ -6,7 +6,7 @@ title: "IAs Úteis ao público geral"
 subtitle: ""
 summary: ""
 authors: [admin]
-tags: []
+tags: [IA]
 categories: []
 date: 2023-03-05T10:18:25-03:00
 lastmod:
@@ -26,7 +26,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: [IA]
+projects: []
 ---
 
 
