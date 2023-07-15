@@ -18,7 +18,7 @@ draft: false
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: ""
+  focal_point: "2"
   preview_only: false
 
 # Projects (optional).
@@ -49,9 +49,13 @@ Para quem quiser conhecer um pouco da teoria ao mesmo tempo que desenvolve proje
 
 * [Real World Deep RL*](https://courses.dibya.online/) do Dibya.
 
+* [Open AI Spinning up in Deep RL](https://spinningup.openai.com/en/latest/index.html)
+
 
 \* Há também o curso [Fast RL](https://courses.dibya.online/p/fastdeeprl) que eu não realizei. 
 
-Disciplinas em instituições renomadas:
+Disciplinas em instituições:
 
-* [CS 285 at UC Berkeley](https://rail.eecs.berkeley.edu/deeprlcourse/)
+* [CS 285 @ UC Berkeley](https://rail.eecs.berkeley.edu/deeprlcourse/)
+* [CS234 @ Stanford](http://web.stanford.edu/class/cs234/index.html)
+* [RL Lecture Series @ DeepMind and UCL ](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm)
