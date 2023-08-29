@@ -6,7 +6,7 @@ title: "Nature Abstract"
 subtitle: ""
 summary: ""
 authors: [admin]
-tags: [IA, PhD, Reinforcement Learning]
+tags: [paper]
 categories: []
 date: 2023-06-22T10:18:25-03:00
 lastmod:

@@ -1,5 +1,5 @@
 ---
-title: "Desenvolvimento de um \textit{Advergame} para a Divulgação Institucional"
+title: "Desenvolvimento de um Advergame para a Divulgação Institucional"
 date: 2023-08-23
 publishDate: 2023-08-11T18:24:11.738875Z
 authors: ["Fábio Júlio", "Paola Pereira", "Eduardo Silva", "Luciana Carla", "Vitória Lira", admin]

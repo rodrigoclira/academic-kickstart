@@ -31,7 +31,7 @@ projects: []
 ---
 
 
-Eu estou usando Aprendizam Por Reforço (do inglês, Reinforcement Learning) na minha tese de doutorado e no processo de aprendizado eu acabei encontrando muitos materias legais na internet. Resolvi fazer uma listagem deles para deixar público e também me ajudar em consultas futuras.
+Eu estou usando Aprendizam Por Reforço (do inglês, Reinforcement Learning) na minha tese de doutorado e no processo de aprendizado eu acabei encontrando muitos materias interessantes na internet. Resolvi fazer uma listagem deles para deixar público e também me ajudar em consultas futuras.
 
 --------
 
@@ -59,3 +59,4 @@ Disciplinas em instituições:
 * [CS 285 @ UC Berkeley](https://rail.eecs.berkeley.edu/deeprlcourse/)
 * [CS234 @ Stanford](http://web.stanford.edu/class/cs234/index.html)
 * [RL Lecture Series @ DeepMind and UCL ](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm)
+* [Introduction to Reinfocement Learning with David Silver @ Deep Learning](https://www.deepmind.com/learning-resources/introduction-to-reinforcement-learning-with-david-silver)

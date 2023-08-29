@@ -154,7 +154,7 @@ cd caminho-app-django/
 gunicorn -b 127.0.0.1:8000 app.wsgi
 ```
 
-`app.wsgi` é o arquivo wsgi contigo no projeto 
+`app.wsgi` é o arquivo wsgi contido no projeto 
 
 Por fim, acesse a aplicação na porta 80. Se o security group tiver configurado, você deve ter acesso a aplicação normalmente.
 
