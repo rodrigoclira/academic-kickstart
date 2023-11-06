@@ -7,10 +7,10 @@ draft: true
 location: 
 address:
   #street: 450 Serra Mall
-  city: Montevidéo
+  city: Paulista
   #region: PE
   #postcode: '94305'
-  country: Uruguai
+  country: Brasil
 
 summary: ""
 abstract: ""
@@ -24,7 +24,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 #publishDate: "2017-01-01T00:00:00Z"
 
-authors: ["Rodrigo Lira","Fabio Julio", "Paola Rodrigues", "Eduardo Jose", "Vitoria Lira", "Luciana Carla"]
+authors: [admin ,"Fabio Julio", "Paola Rodrigues", "Eduardo Jose", "Vitoria Lira", "Luciana Carla"]
 tags: ["banner", "IFPE", "PIBEX"]
 
 # Is this a featured talk? (true/false)

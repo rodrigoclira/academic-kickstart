@@ -25,7 +25,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 #publishDate: "2017-01-01T00:00:00Z"
 
-authors: ["Rodrigo Lira","Fábio Julio", "Poala Rodrigues", "Eduardo Silva", "Vitória Lira", "Luciana Carla"]
+authors: [ admin ,"Fábio Julio", "Poala Rodrigues", "Eduardo Silva", "Vitória Lira", "Luciana Carla", "Anderson Queiroz"]
 tags: ["ifpe", "pibex", "gb studio", "talk"]
 
 # Is this a featured talk? (true/false)

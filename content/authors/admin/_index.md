@@ -14,13 +14,13 @@ organizations:
   url: "https://portal.ifpe.edu.br/campus/paulista"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Rodrigo Lira é professor no IFPE e tem interesse nas áreas de inteligência computacional, IoT e Informática na Educação.
+bio: Rodrigo Lira é professor no IFPE e tem interesse nas áreas de inteligência de enxames, aprendizado de máquina e IoT.
 
 # Interests to show in About widget
 interests:
-- Inteligência Computacional
+- Inteligência de Enxames
+- Aprendizado de Máquina
 - Internet das Coisas
-- Informática na Educação
 
 # Education to show in About widget
 education:
@@ -82,6 +82,9 @@ user_groups:
 
 #Ao longo da minha graduação fui monitor de disciplinas, aluno de iniciação científica e tive uma empresa incubada na Incubadora do Instituto de Tecnologia de Pernambuco (ITEP). Antes de ser professor no instituto federal, eu trabalhei na Fundação para Inovações Tecnológicas (FITec) no Porto Digital e lecionei em instituições privadas de Pernambuco
 
+#No IFPE já fui coordenador do curso técnico em Manutenção e Suporte em Informática e do curso de tecnologia em Análise e Desenvolvimento de Sistemas. Atualmente desenvolvo projetos de pesquisa e extensão no campus Paulista. Em 2021 me tornei um [AWS Accredited Educator](https://aws.amazon.com/pt/training/awsacademy/?nc2=sb_ep_aca) habilitado a lecionar os cursos *AWS Cloud Foundation* e o *Cloud Architecting*. 
+
+ 
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -89,6 +92,4 @@ highlight_name: true
 
 Olá, meu nome é Rodrigo Lira, sou professor no [Instituto Federal de Educação, Ciências e Tecnologia de Pernambuco - *Campus* Paulista](https://portal.ifpe.edu.br/campus/paulista). Sou aluno de doutorado do [Programa de Pós-Graduação em Engenharia da Computação](http://ppgec.ecomp.poli.br) da Universidade de Pernambuco (POLI-UPE), instituição na qual obtive o título de mestre (2014) e de bacharel (2013), ambos em Engenharia da Computação.
 
-No IFPE já fui coordenador do curso técnico em Manutenção e Suporte em Informática e do curso de tecnologia em Análise e Desenvolvimento de Sistemas. Atualmente desenvolvo projetos de pesquisa e extensão no campus Paulista. Em 2021 me tornei um [AWS Accredited Educator](https://aws.amazon.com/pt/training/awsacademy/?nc2=sb_ep_aca) habilitado a lecionar os cursos *AWS Cloud Foundation* e o *Cloud Architecting*. 
 
- 
