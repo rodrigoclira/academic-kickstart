@@ -24,7 +24,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 #publishDate: "2017-01-01T00:00:00Z"
 
-authors: ["Rodrigo Lira","Matheus Cavalcanti", "Luama Oliveira"]
+authors: [ admin,"Matheus Cavalcanti", "Luama Oliveira"]
 tags: ["pibex", "informática na educacao", "talk"]
 
 # Is this a featured talk? (true/false)

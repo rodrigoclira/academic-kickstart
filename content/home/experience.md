@@ -88,14 +88,14 @@ experience:
     #    * Extensão
     #    * Es
 
-  - title: Bolsista
+  - title: Bolsista de Desenvolvimento
     company: Rede Nacional de Ensino e Pesquisa (RNP)
     company_url: 'https://www.rnp.br/'
     company_logo: org-rnp
     location: ""
     date_end: ""
     date_start: "2023-03-01"
-    description: Atuação no projeto INOVA ID RS
+    description: Atuação no projeto INOVA ID RS na área de desenvolvimento de software com as tecnologias Python (Flask e Django) e React.js. 
 
   - title: Coordenador de Curso Superior em Análise e Desenvolvimento de Sistema
     company: Instituto Federal de Educação, Ciências e Tecnologia de Pernambuco (IFPE)
@@ -125,7 +125,7 @@ experience:
   - title: Professor
     company: Faculdade De Tecnologia E Ciências De Pernambuco (FATEC)
     company_url: ''
-    company_logo: org-fatec
+    company_logo: ''
     location: Recife (PE)
     date_start: "2015-02-01"
     date_end: "2017-06-30"

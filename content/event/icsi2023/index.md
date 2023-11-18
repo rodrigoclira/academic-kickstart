@@ -25,7 +25,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 #publishDate: "2017-01-01T00:00:00Z"
 
-authors: ["Rodrigo Lira","Mariana Macedo", "Hugo Valadares", "Carmelo Bastos-Filho"]
+authors: [admin,"Mariana Macedo", "Hugo Valadares", "Carmelo Bastos-Filho"]
 tags: ["doutorado", "pso", 'ppo','Reinforcement Learning', "talk"]
 
 # Is this a featured talk? (true/false)

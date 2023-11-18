@@ -10,7 +10,7 @@ pt:
       - name: Home
         url: '#about'
         weight: 10
-      - name: Postagens
+      - name: Blog
         url: '#posts'
         weight: 20
       - name: Projetos
@@ -21,6 +21,9 @@ pt:
         weight: 40
       - name: Publicações
         url: '#featured'
+        weight: 50
+      - name: Recomendações
+        url: '/recommendation'
         weight: 50
       - name: Downloads
         url: '/downloads'

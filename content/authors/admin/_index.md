@@ -31,9 +31,9 @@ education:
   - course: Mestrado em Engenharia da Computação 
     institution: Universidade de Pernambuco (Brasil)
     year: 2014
-  - course: Especialização em Educação Profissional e Tecnologia
-    institution: Faculdade Venda Nova do Imigrante (Brasil)
-    year: 2021 
+#  - course: Especialização em Educação Profissional e Tecnologia
+#    institution: Faculdade Venda Nova do Imigrante (Brasil)
+#    year: 2021 
   - course: Bacharelado em Engenharia da Computação
     institution: Universidade de Pernambuco (Brasil)
     year: 2013

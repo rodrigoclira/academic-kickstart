@@ -24,7 +24,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 #publishDate: "2017-01-01T00:00:00Z"
 
-authors: ["Rodrigo Lira",]
+authors: ["William Telles", "Gaston Alexandre", "Gabriel Lima", "Julia Yasmin", admin]
 tags: ["talk", "pensamento computacional"]
 
 # Is this a featured talk? (true/false)

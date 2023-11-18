@@ -25,7 +25,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2022-10-25T00:00:00Z"
 
-authors: ["Rodrigo Lira",]
+authors: [admin]
 tags: ["SNCT", "talk"]
 
 # Is this a featured talk? (true/false)

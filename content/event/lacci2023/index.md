@@ -18,7 +18,7 @@ abstract: "Swarm intelligence is a very efficient field for the optimization of 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2023-11-31T17:15:00Z"
+date: "2023-10-31T17:15:00Z"
 #date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
@@ -41,7 +41,7 @@ links:
 #  url: https://twitter.com/georgecushen
 #url_code: "https://scratch.mit.edu/projects/400783603/"
 #url_pdf: "https://sol.sbc.org.br/index.php/ctrle/article/view/8926"
-url_slides: "https://docs.google.com/presentation/d/e/2PACX-1vTpPPjfMMDMwKfvTdcdDvUla1c0hghKYRYbZb46VSu_onSE6OeoRt9U7eENOs06CLwll5TwNrUf4GuF/embed?start=false&loop=false&delayms=3000"
+url_slides: "https://docs.google.com/presentation/d/e/2PACX-1vSbE4VhbB5g93wNH0O3sH2z4U0AzwgXBQcgEPX8o_UlcvEqp1Pf-F25F18PyTsObzfXjsS2_wYEF0wi/embed?start=false&loop=false&delayms=3000"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
