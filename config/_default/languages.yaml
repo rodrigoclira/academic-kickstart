@@ -33,6 +33,34 @@ pt:
         weight: 60
 
 #en:
+#  languageCode: "en"
+#  menu:
+#    main:
+#      - name: Home
+#        url: '#about'
+#        weight: 10
+#      - name: Blog
+#        url: '#posts'
+#        weight: 20
+#      - name: Projects
+#        url: '#projects'
+#        weight: 30
+#      - name: Talks
+#        url: '#talks'
+#        weight: 40
+#      - name: Publications
+#        url: '#featured'
+#        weight: 50
+#      - name: Recomendations
+#        url: '/recommendation'
+#        weight: 50
+#      - name: Downloads
+#        url: '/downloads'
+#        weight: 55
+#      - name: Contact
+#        url: '#contact'
+#        weight: 60
+#en:
 #  languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en

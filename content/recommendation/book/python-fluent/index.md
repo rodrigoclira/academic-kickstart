@@ -1,14 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Fundamentals of Data Visualization"
+title: "Python Fluente"
 
 subtitle: ""
 summary: ""
 authors: [admin]
-tags: ["livro", "free", "dataviz"]
+tags: ["livro", "free", "python"]
 categories: []
-date: 2023-11-18T10:18:25-03:00
+date: 2023-12-09T10:18:25-03:00
 lastmod:
 featured: true
 draft: false
@@ -31,6 +31,4 @@ projects: []
 ---
 
 
-"*A guide to making visualizations that accurately reflect the data, tell a story, and look professional*." por Claus O. Wilke
-
-[https://clauswilke.com/dataviz/index.html](https://clauswilke.com/dataviz/index.html)
+[https://pythonfluente.com/](https://pythonfluente.com/)

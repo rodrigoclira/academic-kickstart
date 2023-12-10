@@ -1,14 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Fundamentals of Data Visualization"
+title: "Friends Don't Let Friends Make Bad Graphs"
 
 subtitle: ""
 summary: ""
 authors: [admin]
-tags: ["livro", "free", "dataviz"]
+tags: ["github", "free", "dataviz"]
 categories: []
-date: 2023-11-18T10:18:25-03:00
+date: 2023-11-21T10:18:25-03:00
 lastmod:
 featured: true
 draft: false
@@ -30,7 +30,8 @@ projects: []
 
 ---
 
+Friends don't let friends make certain types of data visualization - What are they and why are they bad.
+* Author: Chenxin Li, postdoctoral associate at Center for Applied Genetic Technologies, University of Georgia.
+* Contact: Chenxin.Li@uga.edu | @ChenxinLi2
 
-"*A guide to making visualizations that accurately reflect the data, tell a story, and look professional*." por Claus O. Wilke
-
-[https://clauswilke.com/dataviz/index.html](https://clauswilke.com/dataviz/index.html)
+[https://github.com/cxli233/FriendsDontLetFriends](https://github.com/cxli233/FriendsDontLetFriends)
