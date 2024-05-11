@@ -4,6 +4,7 @@ summary: Projeto aprovado no PIBEX IFPE 2021
 tags:
 - pibex
 - gb-studio
+- stalled
 date: "2021-02-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

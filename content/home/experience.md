@@ -118,8 +118,8 @@ experience:
     company_url: 'https://unifacol.edu.br/'
     company_logo: org-facol
     location: Vitória de Santo Antão (PE)
-    date_start: '2018-12-01'
-    date_end: '2015-08-01'
+    date_start: '2015-07-21'
+    date_end: "2017-06-30"
     description: Professor da disciplina de Inteligência Artificial do curso de Sistemas da Informação.
 
   - title: Professor

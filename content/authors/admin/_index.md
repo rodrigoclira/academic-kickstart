@@ -11,7 +11,7 @@ role: Professor
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: IFPE Campus Paulista
-  url: "https://portal.ifpe.edu.br/campus/paulista"
+  url: "https://portal.ifpe.edu.br/paulista"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Rodrigo Lira é professor no IFPE e tem interesse nas áreas de inteligência de enxames, aprendizado de máquina e IoT.
