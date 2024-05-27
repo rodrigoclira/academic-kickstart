@@ -8,6 +8,7 @@ abstract: "Many swarm-based algorithms are proposed using different inspirations
 featured: false
 publication: "*2024 International Conference on Complex Networks (CompleNet)*"
 url_pdf: "https://link.springer.com/chapter/10.1007/978-3-031-57515-0_8"
-
+projects:
+ - rl-mh
 ---
 

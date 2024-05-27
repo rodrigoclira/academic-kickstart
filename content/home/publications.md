@@ -37,3 +37,5 @@ design:
 {{% callout note %}}
 Quickly discover relevant content by [filtering publications](./publication/).
 {{% /callout %}}
+
+Please feel free to reach out to me if you require access to any papers or additional information available on this site.

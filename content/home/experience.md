@@ -95,7 +95,7 @@ experience:
     location: ""
     date_end: ""
     date_start: "2023-03-01"
-    description: Atuação no projeto INOVA ID RS na área de desenvolvimento de software com as tecnologias Python (Flask e Django) e React.js. 
+    description: Atuação no projeto INOVA ID RS na área de desenvolvimento de software com as tecnologias Python (Flask e Django) e ReactJS. 
 
   - title: Coordenador de Curso Superior em Análise e Desenvolvimento de Sistema
     company: Instituto Federal de Educação, Ciências e Tecnologia de Pernambuco (IFPE)
