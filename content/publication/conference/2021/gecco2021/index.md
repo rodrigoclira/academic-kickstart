@@ -8,5 +8,7 @@ abstract: "Computational swarm intelligence effectively solves high-dimen-sional
 featured: false
 publication: "*Genetic and Evolutionary Computation Conference (GECCO'2021)*"
 url_pdf: "https://dl.acm.org/doi/10.1145/3449639.3459327"
+projects:
+ - rl-mh
 ---
 

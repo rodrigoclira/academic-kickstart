@@ -9,5 +9,7 @@ featured: false
 publication: "*Anais do Congresso sobre Tecnologias na Educação*"
 url_pdf: "https://sol.sbc.org.br/index.php/ctrle/article/view/25796"
 doi: "https://doi.org/10.5753/ctrle.2023.232649"
+projects:
+ - jogo-ifpe
 ---
 

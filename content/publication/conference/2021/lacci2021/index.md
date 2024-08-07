@@ -9,6 +9,7 @@ solving high-dimensional and multimodal optimization problems. However, the wide
 featured: false
 publication: "*2021 IEEE Latin American Conference on Computational Intelligence (LA-CCI)*"
 url_pdf: "https://ieeexplore.ieee.org/document/9769781"
-
+projects:
+ - rl-mh
 ---
 

@@ -8,5 +8,6 @@ abstract: "Swarm-based metaheuristics have become the most prominent method for 
 featured: false
 publication: "*XVI Congresso Brasileiro de Inteligência Computacional (CBIC)*"
 url_pdf: "https://sbic.org.br/wp-content/uploads/2023/10/pdf/CBIC_2023_paper109.pdf"
-
+projects:
+ - rl-mh
 ---

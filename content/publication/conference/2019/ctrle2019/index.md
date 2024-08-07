@@ -9,5 +9,7 @@ featured: false
 publication: "*Anais do IV Congresso sobre Tecnologias na Educação*"
 url_pdf: "https://sol.sbc.org.br/index.php/ctrle/article/view/8926"
 doi: "10.5753/ctrle.2019.8926"
+projects:
+ - pensamento-computacional
 ---
 

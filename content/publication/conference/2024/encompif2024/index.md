@@ -7,6 +7,6 @@ publication_types: ["1"]
 abstract: "This paper aimed to investigate the potential of models to generate synthetic data to improve fake news detection. The research compares the results obtained from a real dataset, containing news information, with those obtained from four synthetic datasets generated using GAN, VAE, DDPM and SMOTE. The study results indicate that classification performance improved when using artificial data, with an accuracy score of approximately 87%. These results suggest that synthetic data can be a valuable tool for improving fake news classification performance."
 featured: false
 publication: "*11º Encontro Nacional de Computação dos Institutos Federais (ENCompIF)* - Congresso da Sociedade Brasileira de Computação (CSBC)"
-url_pdf: ""
+url_pdf: "https://sol.sbc.org.br/index.php/encompif/article/view/29285"
 ---
 
