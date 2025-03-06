@@ -22,9 +22,9 @@ pt:
       - name: Publicações
         url: '#publications'
         weight: 50
-      - name: Recomendações
-        url: '/recommendation'
-        weight: 50
+#      - name: Recomendações
+#        url: '/recommendation'
+#        weight: 50
       - name: Downloads
         url: '/downloads'
         weight: 55
