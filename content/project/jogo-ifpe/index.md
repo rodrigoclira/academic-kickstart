@@ -1,5 +1,5 @@
 ---
-title: Um jogo para divulgação do IFPE Campus Paulista
+title: Extensão | Um jogo para divulgação do IFPE Campus Paulista
 summary: Projeto aprovado no PIBEX IFPE 2021
 tags:
 - pibex
@@ -52,6 +52,6 @@ Participantes do projeto:
 </br>
 Clique na tela abaixo e aperte "Enter". Controle o jogador nas setas e interaja na tecla 'z'. Em smartphones ou tablets será exibido um jostick na tela.
 
-<iframe height="300rem" width="400rem" src="https://ifpe-paulista-rodrigo.github.io/jogo-ifpe/index.html" title="Demonstração do Jogo"></iframe>
+<iframe height="300rem" width="400rem" src="https://labpei-ifpe-paulista.github.io/jogo-ifpe/index.html" title="Demonstração do Jogo"></iframe>
 
-[Não funcionou? Clique aqui e acesse a demonstração](https://ifpe-paulista-rodrigo.github.io/jogo-ifpe/index.html)
+[Não funcionou? Clique aqui e acesse a demonstração](https://labpei-ifpe-paulista.github.io/jogo-ifpe/index.html)

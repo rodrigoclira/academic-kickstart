@@ -1,10 +1,11 @@
 ---
-title: Revolução de 1824 - Uma viagem digital pela Confederação do Equador
+title: Extensão | Revolução de 1824 - Uma viagem digital pela Confederação do Equador
 summary: Projeto aprovado no edital Nº 28/2024-FACEPE Confederação do Equador - Pernambuco conta uma história de 200 anos
 tags:
 - confederacao-equador
 - gb-studio
-- active
+- stalled
+- extensão
 date: "2025-01-24T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

@@ -19,7 +19,7 @@ draft: false
 image:
   caption: ""
   focal_point: "2"
-  preview_only: f`alse
+  preview_only: false
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -34,8 +34,6 @@ projects: []
 Na manhã desta quarta-feira (29), aconteceu a solenidade de posse dos/as novos/as conselheiros/as do Conselho Superior (Consup) do IFPE, órgão máximo da instituição, de caráter consultivo e deliberativo. Presidido pelo reitor do IFPE, José Carlos de Sá, o evento aconteceu no auditório do Campus Recife e reuniu os/as conselheiros/as eleitos/as pela comunidade acadêmica para mandato no biênio 2025/2027, em processo eleitoral realizado de forma online nos dias 10 e 11 de dezembro de 2024 e divulgado no dia 13 do mesmo mês.
 
 Ao todo, foram eleitos/as 33 conselheiros/as, distribuídos entre os segmentos docente (10), discente (10), técnico-administrativo (10), egresso (2) e aposentado (1), além dos/as respectivos/as suplentes.
-
->> Confira a lista completa aqui
 
 Durante sua fala, o reitor do IFPE, José Carlos de Sá, destacou a importância do Consup e a participação dos diferentes setores da instituição. “Como o nosso Conselho Superior é de uma casa de educação, temos essa premissa do debate, da discussão, da construção coletiva das nossas decisões. É no Consup que tiramos as diretrizes documentais e referências da nossa organização, a partir das quais nossos/as gestores/as e toda comunidade acadêmica podem se referenciar. Então é um lugar de muita uma responsabilidade. Por isso, quero deixar registrada aqui toda minha gratidão por todas realizações do Consup no biênio passado, nessa perspectiva de ser pilar da governança do IFPE. E já faço um convite a quem está chegando agora para se unir a esse propósito de construção da nossa instituição”, declarou.
 

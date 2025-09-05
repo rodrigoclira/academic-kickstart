@@ -15,3 +15,4 @@ publication: "*Journal of Microwaves, Optoelectronics and Electromagnetic Applic
 url_pdf: "https://www.researchgate.net/publication/235759863_OSNR_based_Adaptive-Alternative_IA-RWA_Algorithm_for_All-Optical_Networks"
 ---
 
+If you're unable to download the PDF directly, please request it through ResearchGate by clicking on the PDF icon. I'd be happy to share it with you

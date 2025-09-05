@@ -18,14 +18,17 @@ bio: Rodrigo Lira é professor no IFPE e tem interesse nas áreas de inteligênc
 
 # Interests to show in About widget
 interests:
-- Inteligência de Enxames
 - Aprendizado de Máquina
+- Inteligência de Enxames
 - Internet das Coisas
 
 # Education to show in About widget
 education:
   courses:
-  - course: Doutorado em Engenharia da Computação (em andamento) 
+  - course: Pós-Doutorado em Engenharia de Sistemas
+    institution: Universidade de Peernambuco (Brasil)
+    year: Em andamento
+  - course: Doutorado em Engenharia da Computação 
     institution: Universidade de Pernambuco (Brasil)
     year: 2025
   - course: Mestrado em Engenharia da Computação 
@@ -64,6 +67,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Rodrigo_Lira_Da_Silva 
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-6089-6214
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -84,12 +90,23 @@ user_groups:
 
 #No IFPE já fui coordenador do curso técnico em Manutenção e Suporte em Informática e do curso de tecnologia em Análise e Desenvolvimento de Sistemas. Atualmente desenvolvo projetos de pesquisa e extensão no campus Paulista. Em 2021 me tornei um [AWS Accredited Educator](https://aws.amazon.com/pt/training/awsacademy/?nc2=sb_ep_aca) habilitado a lecionar os cursos *AWS Cloud Foundation* e o *Cloud Architecting*. 
 
+#Professor no Instituto Federal de Educação, Ciências e Tecnologia de Pernambuco (IFPE). Doutor em Engenharia da Computação pela Universidade de Pernambuco (2025), com foco em inteligência de enxames e aprendizado de máquina por reforço. Mestre (2014) e Bacharel (2013) em Engenharia da Computação na mesma instituição. É membro da Sociedade Brasileira de Computação (SBC), do IEEE e Complexity Systems Society. 
+
+#Foi coordenador de curso no IFPE e atualmente é conselheiro no conselho superior do Instituto Federal de Pernambuco. 
+
+#Atua em projetos de inovação tecnológica da Rede Nacional de Ensino e Pesquisa (RNP) desde 2023. Coordena projetos de pesquisa e extensão no IFPE e já realizou projetos em parceria com FACEPE, SiDi, IPA, SOFTEX, NIC.BR e Prefeitura de Paulista.
  
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Olá, meu nome é Rodrigo Lira, sou professor no [Instituto Federal de Educação, Ciências e Tecnologia de Pernambuco - *Campus* Paulista](https://portal.ifpe.edu.br/paulista). Sou doutorando do [Programa de Pós-Graduação em Engenharia da Computação](http://ppgec.ecomp.poli.br) da Universidade de Pernambuco (POLI-UPE), instituição na qual obtive o título de mestre (2014) e de bacharel (2013), ambos em Engenharia da Computação.
+
+Professor no Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco (IFPE) com doutorado em Engenharia da Computação pela Universidade de Pernambuco (2025) na área de Inteligência de Enxames e Aprendizado de Máquina. Possui Mestrado (2014) e Bacharelado (2013) em Engenharia da Computação pela mesma instituição.
+
+É conselheiro do Conselho Superior (CONSUP) do IFPE e possui experiência como coordenador de curso e na  divisão de pesquisa e extensão. É membro da [Sociedade Brasileira de Computação (SBC)](https://www.sbc.org.br/), [IEEE](https://ieee.org/) e [Complexity Systems Society](https://cssociety.org/).
+
+Desde 2023, participa de projetos de inovação tecnológica da Rede Nacional de Ensino e Pesquisa (RNP). Já coordenou projetos de pesquisa e extensão no IFPE em parceria com instituições como FACEPE, SiDi, IPA, SOFTEX, NIC.BR e Prefeitura de Paulista.
+
 
 

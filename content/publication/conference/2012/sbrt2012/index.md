@@ -12,3 +12,4 @@ url_pdf: "https://www.researchgate.net/publication/234108100_On_the_Performance_
 doi: "10.14209/sbrt.2012.55"
 ---
 
+If you're unable to download the PDF directly, please request it through ResearchGate by clicking on the PDF icon. I'd be happy to share it with you
