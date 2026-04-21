@@ -11,4 +11,7 @@ doi: "https://sol.sbc.org.br/index.php/encompif/article/view/29285"
 url_pdf: "https://www.researchgate.net/publication/382442000_Avaliando_o_Desempenho_de_Modelos_Generativos_de_Dados_para_Classificacao_de_Noticias_Falsas"
 ---
 
-If you're unable to download the PDF directly, please request it through ResearchGate by clicking on the PDF icon. I'd be happy to share it with you
+If you're unable to download the PDF directly, please request it through ResearchGate by clicking on the PDF icon. I'd be happy to share it with you.
+
+
+ResearchGate's Link: https://www.researchgate.net/publication/382442000_Avaliando_o_Desempenho_de_Modelos_Generativos_de_Dados_para_Classificacao_de_Noticias_Falsas

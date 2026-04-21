@@ -13,7 +13,7 @@ date: "2019-01-01T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Imagem do jogo utilizando Scratch desenvolvido no projeto.
+  caption: Imagem do jogo desenvolvido no projeto.
   focal_point: Smart
 
 url_code: ""

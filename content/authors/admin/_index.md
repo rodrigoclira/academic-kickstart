@@ -26,7 +26,7 @@ interests:
 education:
   courses:
   - course: Pós-Doutorado em Engenharia de Sistemas
-    institution: Universidade de Peernambuco (Brasil)
+    institution: Universidade de Pernambuco (Brasil)
     year: Em andamento
   - course: Doutorado em Engenharia da Computação 
     institution: Universidade de Pernambuco (Brasil)
@@ -102,11 +102,11 @@ highlight_name: true
 ---
 
 
-Professor no Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco (IFPE) com doutorado em Engenharia da Computação pela Universidade de Pernambuco (2025) na área de Inteligência de Enxames e Aprendizado de Máquina. Possui Mestrado (2014) e Bacharelado (2013) em Engenharia da Computação pela mesma instituição.
+Professor no Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco (IFPE) com doutorado em [Engenharia da Computação](https://w2.solucaoatrio.net.br/somos/upe-ppgec/index.php/pt/) pela Universidade de Pernambuco (2025) na área de Inteligência de Enxames e Aprendizado de Máquina. Possui Mestrado (2014) e Bacharelado (2013) em Engenharia da Computação pela mesma instituição. Atualmente realiza o estágio pós-doutoral no Programa de [Engenharia de Sistemas](https://w2.solucaoatrio.net.br/somos/upe-ppges/index.php/pt/) da Universidade de Pernambuco.
 
 É conselheiro do Conselho Superior (CONSUP) do IFPE e possui experiência como coordenador de curso e na  divisão de pesquisa e extensão. É membro da [Sociedade Brasileira de Computação (SBC)](https://www.sbc.org.br/), [IEEE](https://ieee.org/) e [Complexity Systems Society](https://cssociety.org/).
 
-Desde 2023, participa de projetos de inovação tecnológica da Rede Nacional de Ensino e Pesquisa (RNP). Já coordenou projetos de pesquisa e extensão no IFPE em parceria com instituições como FACEPE, SiDi, IPA, SOFTEX, NIC.BR e Prefeitura de Paulista.
+Participou/a de projetos de inovação tecnológica da Rede Nacional de Ensino e Pesquisa (RNP) e da Universidade de Pernambuco (UPE). Já coordenou projetos de pesquisa e extensão no IFPE em parceria com instituições como FACEPE, SiDi, IPA, SOFTEX, NIC.BR e Prefeitura de Paulista.
 
 
 

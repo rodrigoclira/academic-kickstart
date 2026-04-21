@@ -18,7 +18,7 @@ image:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://youtu.be/OEwgQ4Pn_yw"
 draft: false
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -40,6 +40,19 @@ A equipe proponente possui experiência no desenvolvimento de jogos educativos c
 Pesquisas como a de Neves et al. (2010) demonstram que jogos digitais podem ser ferramentas pedagógicas eficazes no processo de ensino-aprendizagem de História, ao combinarem elementos lúdicos com conteúdo educacional. A utilização dessas tecnologias na educação histórica não apenas democratiza o acesso ao conhecimento, como também oferece novas perspectivas de interação e engajamento com os eventos do passado, permitindo que os estudantes experimentem e explorem diferentes contextos históricos de forma imersiva e interativa.
 
 Nesse sentido, o desenvolvimento de projetos educacionais baseados em jogos digitais pode contribuir significativamente para a formação de uma consciência histórica crítica entre o público jovem. Por meio de uma abordagem lúdica e envolvente, é possível proporcionar acesso a informações sobre eventos históricos relevantes, como os que marcaram a história de Pernambuco e do Brasil, estimulando simultaneamente o interesse pelo aprendizado e a valorização do patrimônio histórico-cultural regional.
+
+## Experimente o jogo
+
+</br>
+Clique na tela abaixo e aperte "Enter". Controle o jogador nas setas e interaja na tecla 'z'. Em smartphones ou tablets será exibido um jostick na tela.
+
+<iframe height="300rem" width="400rem" src="https://labpei-ifpe-paulista.github.io/jogo-confederacao-equador/index.html" title="Demonstração do Jogo"></iframe>
+
+[Não funcionou? Clique aqui e acesse a demonstração](https://labpei-ifpe-paulista.github.io/jogo-confederacao-equador/index.html)
+
+
+
+
 
 # Referências:
 

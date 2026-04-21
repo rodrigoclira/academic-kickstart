@@ -1,14 +1,14 @@
 ---
-title: Sistemas Inteligentes - Inovação e o seu papel no novo mundo
-event: Accenture Summer Experience 2020
+title: Impact of Unusual Features in Credit Scoring Problem
+event: Symposium on Knowledge Discovery, Mining and Learning (KDMiLe) 2020
 #event_url: https://example.org
 draft: false
 
-location: Accenture Innovation Center
+location: Virtual
 address:
   #street: 450 Serra Mall
-  city: Recife
-  region: PE
+  city: Rio Grande
+  #region: PE
   #postcode: '94305'
   country: Brasil
 
@@ -17,15 +17,15 @@ abstract: "Palestra realizada na abertura do evento Summer Experience 2020 da Ac
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-01-17T15:00:00Z"
+date: "2020-08-20T15:00:00Z"
 #date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-08-01T00:00:00Z"
 
-authors: [admin, "Flávio Oliveira"]
-tags: ["talk", "ia"]
+authors: [admin, "Luiz Vercosa"]
+tags: ["paper", "ia"]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -40,8 +40,8 @@ links:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: ""
-url_slides: "https://docs.google.com/presentation/d/e/2PACX-1vQdilHa4Wb_IGhZpqgbXlCV5D3oJrRSDFrDsoM7bLSs8oOK4iSdYymx1WEG-5JBBwMraj-PBB2jgYiw/embed?start=false&loop=false&delayms=3000"
+url_pdf: "./kdmile2020/kdmile2020.pdf"
+url_slides: ""
 url_video: ""
 
 # Markdown Slides (optional).
@@ -63,9 +63,4 @@ projects: []
 # Enable math on this page?
 math: true
 ---
-
-{{% callout note %}}
-O arquivo da apresentação está disponível no campo PDF (logo abaixo do título). 
-{{% /callout %}}
-
-{{< gdocs src="https://docs.google.com/presentation/d/e/2PACX-1vQdilHa4Wb_IGhZpqgbXlCV5D3oJrRSDFrDsoM7bLSs8oOK4iSdYymx1WEG-5JBBwMraj-PBB2jgYiw/embed?start=false&loop=false&delayms=3000" >}}
+    

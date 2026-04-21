@@ -1,6 +1,6 @@
 ---
 title: "Applying Reinforcement Learning for Multiple Functions in Swarm Intelligence"
-event: 12th Brazilian Conference on Intelligent Systems (BRACIS 2023)
+event: 32th Brazilian Conference on Intelligent Systems (BRACIS 2023)
 event_url: "https://www.bracis.dcc.ufmg.br/home"
 draft: false
 

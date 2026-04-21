@@ -11,4 +11,5 @@ publication: "*ANPROTEC 2024*"
 url_pdf: "https://www.researchgate.net/publication/391630347_INOVA_ID_RS_Uma_Federacao_de_Identidade_Aderente_ao_Ecossistema_de_Inovacao_Gaucho"
 ---
 
-If you're unable to download the PDF directly, please request it through ResearchGate by clicking on the PDF icon. I'd be happy to share it with you
+If you're unable to download the PDF directly, please request it through ResearchGate by clicking on the PDF icon. I'd be happy to share it with you.
+

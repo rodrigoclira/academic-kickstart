@@ -36,3 +36,10 @@ slides: example
 
 Inteligência de enxames é uma subárea de computação inteligente que compreende abordagens que se inspiram no comportamento inteligente emergente da interação entre seres vivos para resolução de problemas complexos. Ao longo das últimas três décadas, muitas foram as propostas que surgiram na área, as quais são baseadas nas mais diversas metáforas. Uma característica em comum a essas propostas é que os agentes costumam seguir em todo o processo de resolução do problema a inspiração utilizada na sua concepção. Sabendo-se que existem diversos problemas de otimização e que mesmo em um único problema existem fases que precisam de diferentes comportamentos, seguir um conjunto de operadores bem definido por um algoritmo é um fator limitante. Por esse motivo, este projeto visa desenvolver uma meta-heurística adaptativa para resolução de problemas de otimização que consiga se auto-organizar no exame (ou sub-enxames) mais promissor de acordo com informações obtidas *on-line* na execução. 
 
+<!--
+{{< video
+  src="passaros-alpha.webm"
+  width="600"
+>}}
+-->
+
