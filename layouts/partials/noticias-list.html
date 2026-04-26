@@ -1,0 +1,16 @@
+{{ $items := site.Data.noticias }}
+{{ $limit := 7 }}
+{{ $total := len $items }}
+<div style="display:flex; flex-direction:column; width:100%; max-width:100%;">
+  {{ range first $limit $items }}
+  <div style="display:flex; gap:2rem; padding:0.65rem 0; border-bottom:1px solid rgba(128,128,128,0.2); align-items:baseline;">
+    <span style="min-width:110px; font-size:0.82rem; color:gray; white-space:nowrap; flex-shrink:0;">{{ .date }}</span>
+    <span>{{ .text | markdownify }}</span>
+  </div>
+  {{ end }}
+</div>
+{{ if gt $total $limit }}
+<div style="margin-top:0.75rem; text-align:right;">
+  <a href="/news/">Ver todas as notícias →</a>
+</div>
+{{ end }}

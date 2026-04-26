@@ -1,0 +1,16 @@
+{{ define "main" }}
+<div class="container mx-auto px-4 py-12" style="max-width:800px;">
+  <h1 style="margin-bottom:2rem;">Notícias</h1>
+  <div style="display:flex; flex-direction:column;">
+    {{ range site.Data.noticias }}
+    <div style="display:flex; gap:2rem; padding:0.75rem 0; border-bottom:1px solid rgba(128,128,128,0.2); align-items:baseline;">
+      <span style="min-width:110px; font-size:0.85rem; color:gray; white-space:nowrap; flex-shrink:0;">{{ .date }}</span>
+      <span>{{ .text | markdownify }}</span>
+    </div>
+    {{ end }}
+  </div>
+  <div style="margin-top:2rem;">
+    <a href="/">← Voltar</a>
+  </div>
+</div>
+{{ end }}

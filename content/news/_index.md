@@ -1,0 +1,4 @@
+---
+title: Notícias
+type: news
+---

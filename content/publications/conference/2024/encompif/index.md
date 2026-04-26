@@ -1,0 +1,18 @@
+---
+title: "Avaliando o Desempenho de Modelos Generativos de Dados para Classificação de Notícias Falsas"
+date: 2024-04-21
+publishDate: 2024-04-21T08:00:11.923070Z
+authors: [ "William Teles de Andrade Junior", "João Gabriel Rosha Silva", "Antônio Neto", me ]
+publication_types: ['paper-conference']
+abstract: "This paper aimed to investigate the potential of models to generate synthetic data to improve fake news detection. The research compares the results obtained from a real dataset, containing news information, with those obtained from four synthetic datasets generated using GAN, VAE, DDPM and SMOTE. The study results indicate that classification performance improved when using artificial data, with an accuracy score of approximately 87%. These results suggest that synthetic data can be a valuable tool for improving fake news classification performance."
+featured: false
+publication: "*11º Encontro Nacional de Computação dos Institutos Federais (ENCompIF)* - Congresso da Sociedade Brasileira de Computação (CSBC)"
+hugoblox:
+  ids:
+    doi: "https://sol.sbc.org.br/index.php/encompif/article/view/29285"
+links:
+  - type: pdf
+    url: "https://www.researchgate.net/publication/382442000_Avaliando_o_Desempenho_de_Modelos_Generativos_de_Dados_para_Classificacao_de_Noticias_Falsas"
+---
+
+If you're unable to download the PDF directly, please request it through ResearchGate by clicking on the PDF icon. I'd be happy to share it with you

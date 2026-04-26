@@ -1,0 +1,15 @@
+{{ $pubs := where site.RegularPages "Section" "publications" }}
+{{ $pubs = sort $pubs "Date" "desc" }}
+{{ $pubs = first 5 $pubs }}
+<div style="display:flex; flex-direction:column;">
+  {{ range $pubs }}
+  <div style="padding:0.65rem 0; border-bottom:1px solid rgba(128,128,128,0.2);">
+    <div style="font-size:0.9rem;">
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    </div>
+    <div style="font-size:0.82rem; color:gray; margin-top:0.2rem;">
+      {{ .Date.Format "2006" }}{{ with .Params.publication }} · {{ . | markdownify }}{{ end }}
+    </div>
+  </div>
+  {{ end }}
+</div>
