@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 🎉 Easily create your own simple yet highly customizable blog
 summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
 date: 2023-10-27
@@ -57,7 +58,7 @@ Welcome 👋
 - 👉 [**Create a new site**](https://hugoblox.com/templates/)
 - 📚 [**Personalize your site**](https://docs.hugoblox.com/)
 - 💬 [Chat with the **Hugo Blox community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@MakeOwnable](https://x.com/MakeOwnable)  #MadeWithHugoBlox
+- 🐦 Twitter: [@LoreLabs_](https://x.com/LoreLabs_) [@GeorgeCushen](https://x.com/GeorgeCushen) #MadeWithHugoBlox
 - 💡 [Request a **feature** or report a **bug** for _Hugo Blox_](https://github.com/HugoBlox/kit/issues)
 - ⬆️ **Updating Hugo Blox?** View the [Update Guide](https://docs.hugoblox.com/reference/update/) and [Release Notes](https://github.com/HugoBlox/kit/releases)
 

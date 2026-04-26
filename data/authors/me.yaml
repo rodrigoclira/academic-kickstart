@@ -2,115 +2,62 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
-  alternate: ''  # Example: 王伟
-  pronunciation: ''  # Example: Wáng Wěi
-  pronouns: he/him
+  display: Rodrigo Lira
+  given: Rodrigo
+  family: Lira
+  alternate: ''
+  pronunciation: ''
 postnominals:
   - PhD
   - MIEEE
 status:
   icon: "☕️"
-role: Senior AI Research Scientist
+role: Professor
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  Professor no Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco (IFPE) com doutorado em Engenharia da Computação pela Universidade de Pernambuco (2025) na área de Inteligência de Enxames e Aprendizado de Máquina. Possui Mestrado (2014) e Bacharelado (2013) em Engenharia da Computação pela mesma instituição. Realiza pesquisa de pós-doutorado em Engenharia de Sistemas na UPE. É conselheiro do Conselho Superior (CONSUP) do IFPE, atual coordenador de curso do Tecnológo em Análise e Desenvolvimento de Sistemas do Campus Paulista, possuitambém experiência coordenador da Divisão de Pesquisa e Extensão.
+
+  É membro da [Sociedade Brasileira de Computação (SBC)](https://www.sbc.org.br/), [IEEE](https://ieee.org/) e [Complexity Systems Society](https://cssociety.org/). Desde 2023, participa de projetos de inovação tecnológica da Rede Nacional de Ensino e Pesquisa (RNP). Já coordenou projetos de pesquisa e extensão no IFPE em parceria com instituições como FACEPE, SiDi, IPA, SOFTEX, NIC.BR e Prefeitura de Paulista.
+
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: IFPE
+    url: https://portal.ifpe.edu.br/
 
 links:
-  - icon: at-symbol
-    url: mailto:alex.johnson@example.com
-    label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
   - icon: brands/github
-    url: https://github.com/example
+    url: https://github.com/rodrigoclira
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
+    url: https://www.linkedin.com/in/rodrigoclira/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
+    url: https://scholar.google.com/citations?user=0Q8Bn70AAAAJ&hl=pt-BR
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0001-6089-6214
+  - icon: academicons/lattes
+    url: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4408742J0
+  - icon: academicons/researchgate
+    url: https://www.researchgate.net/profile/Rodrigo_Lira_Da_Silva
+  # - icon: at-symbol
+  #   url: mailto:rodrigo.lira@paulista.ifpe.edu.br
+  #   label: E-mail Me
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Swarm Intelligence
+  - Machine Learning
+  - Internet of Things
 
-education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
-    summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
-
-experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
-    summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
-
-skills:
-  - name: Technical Skills
-    items:
-      - label: Python
-        level: 5
-      - label: Machine Learning
-        level: 5
-      - label: Cloud Computing
-        level: 4
-  - name: Research & Communication
-    items:
-      - label: Academic Writing
-        level: 5
-      - label: Conference Presentations
-        level: 4
-      - label: Grant Proposals
-        level: 4
-
-languages:
-  - name: English
-    level: 5
-    label: Native
-  - name: Spanish
-    level: 4
-    label: Fluent
-
-awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
-    icon: hero/trophy
+#education:
+#  - degree: Pós-Doutorado em Engenharia de Sistemas
+#    institution: Universidade de Pernambuco (Brasil)
+#    start: 2025-01-01
+#  - degree: Doutorado em Engenharia da Computação
+#    institution: Universidade de Pernambuco (Brasil)
+#    start: 2020-03-01
+#    end: 2025-03-28
+#  - degree: Mestrado em Engenharia da Computação
+#    institution: Universidade de Pernambuco (Brasil)
+#    start: 2013-08-01
+#    end: 2014-10-31
+#  - degree: Bacharelado em Engenharia da Computação
+#    institution: Universidade de Pernambuco (Brasil)
+#    start: 2008-08-01
+#    end: 2013-06-01
