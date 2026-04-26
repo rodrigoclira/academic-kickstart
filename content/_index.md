@@ -39,14 +39,13 @@ sections:
         shape: circle # Options: circle (default), square, rounded
       spacing:
         padding: ['0', '0', '0', '0']
-  - block: markdown
+  - block: wide-section
     id: noticias
     content:
       title: Notícias
       subtitle: ''
       text: '{{< noticias >}}'
     design:
-      columns: '1'
       spacing:
         padding: ['0', '0', '0', '0']
   - block: collection
