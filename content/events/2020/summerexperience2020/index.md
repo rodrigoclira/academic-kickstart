@@ -2,6 +2,7 @@
 title: Sistemas Inteligentes - Inovação e o seu papel no novo mundo
 event_name: Accenture Summer Experience 2020
 draft: false
+date: "2020-01-17T15:00:00Z"
 
 location: Accenture Innovation Center
 address:
@@ -15,6 +16,8 @@ summary: Palestra realizada na abertura do evento Summer Experience 2020 da Acce
 abstract: "Palestra realizada na abertura do evento Summer Experience 2020 da Accenture Recife. Nela foram apresentadas tendências e técnicas inteligentes que estão sendo implantados em aplicações reais."
 
 event_start: "2020-01-17T15:00:00Z"
+event_end: "2020-01-17T15:00:00Z"
+
 event_all_day: false
 
 authors: [me, "Flávio Oliveira"]

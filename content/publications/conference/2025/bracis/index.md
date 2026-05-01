@@ -11,7 +11,8 @@ projects:
  - rl-mh
 hugoblox:
   ids:
-    doi: "https://link.springer.com/chapter/10.1007/978-3-032-15987-8_4"
+    doi: "10.1007/978-3-032-15987-8_4"
+    
 links:
   - type: pdf
     url: "https://www.researchgate.net/publication/398427544_A_Multidimensional_Analysis_of_Swarm_Dynamics_in_a_Reinforcement_Learning-based_Metaheuristic"
