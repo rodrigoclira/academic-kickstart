@@ -8,7 +8,7 @@ sections:
       title: Blog
       filters:
         folders:
-          - blog
+          - post
     design:
       view: card
       columns: 2    
