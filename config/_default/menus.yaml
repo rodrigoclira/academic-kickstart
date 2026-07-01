@@ -14,7 +14,7 @@ main:
     url: /events/
     weight: 12
   - name: Blog
-    url: blog/
+    url: /post/
     weight: 13
   - name: Projetos
     url: projects/
